@@ -1,5 +1,6 @@
 # STM_MotorController
-STM_MotorSystem用のstm32f303k8nucleoを用いたコントローラ
+STM_MotorSystem用のstm32f303k8nucleoを用いたコントローラ<br>
+クロック周波数は64MHz
 
 |peripheral|pin|
 |---|---|
