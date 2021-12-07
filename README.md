@@ -1,5 +1,6 @@
 # STM_MotorController
-STM_MotorSystem用のstm32f303k8nucleoを用いたコントローラ
+STM_MotorSystem用のstm32f303k8nucleoを用いたコントローラ<br>
+クロック周波数は64MHz
 
 |peripheral|pin|
 |---|---|
@@ -20,7 +21,7 @@ STM_MotorSystem用のstm32f303k8nucleoを用いたコントローラ
 |ARetransission|1|
 |RFL|0|
 |TFP|0|
-|OperatingM|loopback|
+|OperatingM||
 
 ## 追記
 割り込みの有効化忘れないでにゃん（RX0を有効化すればいいんだにゃん）
